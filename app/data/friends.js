@@ -24,7 +24,7 @@ var friends = [
     {
         name: "Wendel!",
         photo:"https://i.pinimg.com/originals/db/b0/38/dbb038874e56c74e9a40649a5e8ed5ed.jpg",
-        scores:[ 5,5,5,5,5,5,5,5,5,5]
+        scores:[ 5,5,3,5,5,5,5,5,5,5]
     },
     {
         name: "Larry the Lab!",
