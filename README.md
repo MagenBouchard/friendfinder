@@ -8,6 +8,8 @@ This full-stack site will take in results from your users' surveys, then compare
 
 ## Technologies used
 
+HTML, CSS, Bootstrap, JavaScript, ExpressJS
+
 
 
 
