@@ -29,7 +29,7 @@ var friends = [
     {
         name: "Larry the Lab!",
         photo:"https://images.uncyc.org/commons/thumb/c/c0/Normdog.jpg/200px-Normdog.jpg",
-        scores:[ 1,2,2,2,2,2,2,2,2,2]
+        scores:[ 1,2,3,2,2,2,2,2,2,2]
     },
     {
         name: "A gang of friends!!",
