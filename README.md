@@ -1,6 +1,6 @@
 # friendFinder
 
-FriendFinder obtains user input and matches their input with a pup friend!
+FriendFinder obtains user input and matches their input with a pup friend or another dog lover!
 
 ## About
 
