@@ -12,8 +12,6 @@ HTML, CSS, Bootstrap, JavaScript, ExpressJS
 
 
 
-
-
-
+## Deployed link
 
 https://damp-temple-69623.herokuapp.com/
