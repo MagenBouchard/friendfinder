@@ -19,7 +19,7 @@ var friends = [
     {
         name: "Higgens the power pup!",
         photo:"https://www.visiblelogic.com/wp-content/uploads/2015/05/Kippy-office-dog-200px.jpg",
-        scores:[ 4,4,4,4,4,4,4,4,4,4]
+        scores:[ 4,4,4,4,5,4,4,4,4,4]
     },
     {
         name: "Wendel!",
