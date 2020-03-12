@@ -44,7 +44,7 @@ var friends = [
     {
         name: "Patricia the pap!",
         photo:"https://kids.kiddle.co/images/thumb/d/d0/Tricolor_Papillon_puppy.jpg/200px-Tricolor_Papillon_puppy.jpg",
-        scores:[ 1,1,5,1,1,1,1,1,1,1]
+        scores:[ 1,1,5,1,1,1,2,1,1,1]
     },
     {
         name: "Lee the lab!",
