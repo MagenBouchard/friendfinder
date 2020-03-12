@@ -39,7 +39,7 @@ var friends = [
     {
         name: "Jesse the baby boxer!",
         photo:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Staffordshire-bull-terrier-puppy-fawn-2166763.jpg/200px-Staffordshire-bull-terrier-puppy-fawn-2166763.jpg",
-        scores:[ 1,4,1,1,1,1,1,1,1,1]
+        scores:[ 1,4,3,1,1,1,1,1,1,1]
     },
     {
         name: "Patricia the pap!",
