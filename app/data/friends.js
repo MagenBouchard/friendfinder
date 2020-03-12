@@ -50,6 +50,11 @@ var friends = [
         name: "Lee the lab!",
         photo:"https://www.sunnycrestanimalcare.com/wp-content/uploads/2019/05/vomiting-dog-cropped-200px.jpg",
         scores:[ 1,2,3,4,5,2,1,1,1,1]
+    },
+    {
+        name: "Nick the Schip!",
+        photo:"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/schipperke-detail.jpg?bust=1535566511&width=355",
+        scores:[ 2,2,3,4,5,2,1,1,1,1]
     }
 ];
 
